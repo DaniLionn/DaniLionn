@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi. I'm Dani! (she/her)👋
+
+[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,js,nodejs,discordbots,discordjs,windows,linux,ubuntu)](https://skillicons.dev)
+
+
 
 <!--
 **DaniLionn/DaniLionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

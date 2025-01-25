@@ -1,6 +1,6 @@
 ## Hi. I'm Dani! (she/her)👋
 
-[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,js,nodejs,discordbots,discordjs,windows,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,robloxstudio,js,nodejs,discordbots,discordjs,ubuntu,vscode&perline=5)](https://skillicons.dev)
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
